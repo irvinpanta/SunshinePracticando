@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include=".Domain\.Customize\AreaCE.cs" />
+    <Compile Include=".Domain\.Customize\MesaCE.cs" />
+    <Compile Include=".Domain\.Customize\ProductCE.cs" />
+    <Compile Include=".Domain\.Entity\Area.cs" />
+    <Compile Include=".Domain\.Entity\Mesa.cs" />
+    <Compile Include=".Domain\.Entity\Product.cs" />
+    <Compile Include=".Infraestructure\.Configuration\MesaConfiguration.cs" />
+    <Compile Include=".Infraestructure\.Configuration\ProductConfiguration.cs" />
+    <Compile Include=".Infraestructure\.Context\MesaContext.cs" />
+    <Compile Include=".Infraestructure\.Context\ProductContext.cs" />
+    <Compile Include=".Infraestructure\.Repository\.RepositoryInterface\IAvikarRepository.cs" />
+    <Compile Include=".Infraestructure\.UoW\.UoWInterface\IAvikarUoW.cs" />
+    <Compile Include=".Infraestructure\.Configuration\AreaConfiguration.cs" />
+    <Compile Include=".Infraestructure\.Context\AreaContext.cs" />
+    <Compile Include=".Infraestructure\.Context\AvikarContext.cs" />
+    <Compile Include=".Infraestructure\.Context\AvikarContextFactory.cs" />
+    <Compile Include=".Infraestructure\.Repository\AvikarRepository.cs" />
+    <Compile Include=".Infraestructure\.Repository\AvikarRepositoryFactory.cs" />
+    <Compile Include=".Infraestructure\.UoW\AvikarUoW.cs" />
+    <Compile Include=".Service\.ServiceInterface\IAvikarService.cs" />
+    <Compile Include=".Service\AreaService.cs" />
+    <Compile Include=".Service\AvikarService.cs" />
+    <Compile Include=".Service\MesaService.cs" />
+    <Compile Include=".Service\ProductService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework.CodeFirstStoreFunctions" Version="1.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sun.Expert.Framework\SunExpert.Framework.csproj" />
+  </ItemGroup>
+
+</Project>

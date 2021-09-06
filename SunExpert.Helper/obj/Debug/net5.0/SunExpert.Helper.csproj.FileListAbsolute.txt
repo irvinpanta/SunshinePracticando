@@ -1,0 +1,12 @@
+C:\Users\Irvin Pool\source\repos\SunExpert\SunExpert.Sunchine\SunExpert.Helper\bin\Debug\net5.0\SunExpert.Helper.deps.json
+C:\Users\Irvin Pool\source\repos\SunExpert\SunExpert.Sunchine\SunExpert.Helper\bin\Debug\net5.0\SunExpert.Helper.dll
+C:\Users\Irvin Pool\source\repos\SunExpert\SunExpert.Sunchine\SunExpert.Helper\bin\Debug\net5.0\ref\SunExpert.Helper.dll
+C:\Users\Irvin Pool\source\repos\SunExpert\SunExpert.Sunchine\SunExpert.Helper\bin\Debug\net5.0\SunExpert.Helper.pdb
+C:\Users\Irvin Pool\source\repos\SunExpert\SunExpert.Sunchine\SunExpert.Helper\obj\Debug\net5.0\SunExpert.Helper.csproj.AssemblyReference.cache
+C:\Users\Irvin Pool\source\repos\SunExpert\SunExpert.Sunchine\SunExpert.Helper\obj\Debug\net5.0\SunExpert.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irvin Pool\source\repos\SunExpert\SunExpert.Sunchine\SunExpert.Helper\obj\Debug\net5.0\SunExpert.Helper.AssemblyInfoInputs.cache
+C:\Users\Irvin Pool\source\repos\SunExpert\SunExpert.Sunchine\SunExpert.Helper\obj\Debug\net5.0\SunExpert.Helper.AssemblyInfo.cs
+C:\Users\Irvin Pool\source\repos\SunExpert\SunExpert.Sunchine\SunExpert.Helper\obj\Debug\net5.0\SunExpert.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Irvin Pool\source\repos\SunExpert\SunExpert.Sunchine\SunExpert.Helper\obj\Debug\net5.0\SunExpert.Helper.dll
+C:\Users\Irvin Pool\source\repos\SunExpert\SunExpert.Sunchine\SunExpert.Helper\obj\Debug\net5.0\ref\SunExpert.Helper.dll
+C:\Users\Irvin Pool\source\repos\SunExpert\SunExpert.Sunchine\SunExpert.Helper\obj\Debug\net5.0\SunExpert.Helper.pdb

@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include=".ConnectionSecurity\ConnectionOptions.cs" />
+    <Compile Include=".ConnectionSecurity\SunExpertConnection.cs" />
+    <Compile Include=".DataContext\ContextDbContext.cs" />
+    <Compile Include=".DataContext\IContextDbContext.cs" />
+    <Compile Include=".DataRepository\IRepositoryDev.cs" />
+    <Compile Include=".DataRepository\RepositoryDev.cs" />
+    <Compile Include=".DataUoW\IUoWDev.cs" />
+    <Compile Include=".DataUoW\UoWDev.cs" />
+    <Compile Include=".Encrypt\Encrypter.cs" />
+    <Compile Include=".Enun\EFEntityState.cs" />
+    <Compile Include=".Sql\SqlHelper.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="5.0.0" />
+  </ItemGroup>
+
+</Project>
